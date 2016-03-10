@@ -10,7 +10,7 @@ gem 'jbuilder', '~> 2.0'
 gem 'sdoc', '~> 0.4.0', group: :doc
 gem 'devise'
 gem "paperclip", "~> 4.2"
-gem 'aws-sdk','<2.0'
+gem 'aws-sdk','< 2.0'
 
 group :development do
 gem 'web-console', '~> 2.0'
